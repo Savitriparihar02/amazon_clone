@@ -1,0 +1,14 @@
+.class{
+    display: flex;
+    gap: 20px;
+
+}
+.class div{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: inline;
+}

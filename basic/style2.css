@@ -1,0 +1,43 @@
+/* #box1{
+    height: 100px;
+    width: 100px;
+     background-color: #8a5353;
+}
+#box2{
+    height : 50px;
+    width: 50px;
+    background: #1ab639;
+} */
+ 
+
+ul{
+    display: flex;
+background-color: rgba(15, 15, 15, 0.532);
+justify-content: space-evenly;
+height: 50px;
+
+}
+a{
+  display: inline;
+  color: rgb(233, 229, 229);
+  text-decoration: none;
+}
+li{
+    display: inline;
+}
+
+.outer{
+    
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(44, 8, 88);
+    
+}

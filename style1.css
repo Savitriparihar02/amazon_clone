@@ -1,0 +1,40 @@
+div{
+    height: 500px;
+    width: 150px;
+    background: #cddccf;
+    /* border-radius: 50%; */
+
+}
+div{
+    height: 450px;
+    width: 150px; 
+  padding-top: 0.25px;
+   
+}
+#circle1{
+    height: 100px;
+    width: 100px;
+    background: #16b731;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 22px;
+    margin-top: 60px;
+}
+#circle2{
+    height: 100px;
+    width: 100px;
+    background: #ff0000;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 22px;
+    margin-top: 30px;
+}
+#circle3{
+    height: 100px;
+    width: 100px;
+    background: #f5f10a;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 22px;
+    margin-top: 30px;
+}
